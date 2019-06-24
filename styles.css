@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: interface, Helvetica Neue, Helvetica, sans-serif;
+    text-align: center;
+}
+
+span {
+    color: #ef1080;
+}
+
+.welcome {
+    width: 300px;
+}
